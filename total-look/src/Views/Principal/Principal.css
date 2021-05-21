@@ -1,0 +1,15 @@
+.hotSale{
+    width: 100vw;
+}
+
+.categories{
+    margin: 30px;
+    display: flex;
+    margin: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2{
+    margin-left: 30px;
+}
